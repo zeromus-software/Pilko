@@ -16,7 +16,7 @@ using namespace std;
 int main(int argc,char* argv[])
 {
     sf::Event even;
-    int choix = 0;
+   short int choix = 0;
     sf::RenderWindow win(sf::VideoMode(800,600,32),"zGameBall");
 
     //chargement du fond
